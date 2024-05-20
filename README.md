@@ -1,1 +1,1 @@
-[# clinic-new2.0](https://manisprasad.github.io/clinic-new2.0/)
+deployment link - https://manisprasad.github.io/clinic-new2.0/
